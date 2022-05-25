@@ -1,3 +1,3 @@
-# Siyah-Muhaf-z-Tc-No-Do-rulama
-Siyah Muhafız Tc No Doğrulama
+# EBS TC No Checker Tools
+EBS Tc No Doğrulama
 https://www.ebubekirbastama.com
